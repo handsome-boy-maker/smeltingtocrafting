@@ -1,0 +1,7 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+
+[[mods]]
+modId="smeltingtocrafting"
+version="1.0.0"
+displayName="熔炉转工作台"
